@@ -1,0 +1,83 @@
+                * {
+                    margin: 0;
+                    padding: 0;
+                }
+                
+                body {
+                    overflow-x: hidden;
+                }
+                
+                #container {
+                    width: 100%;
+                    max-width: 250px;
+                    margin: 30px auto;
+                    padding: 35px 25px;
+                    background-color: #bbb;
+                }
+                
+                #container,
+                #like,
+                #dislike {
+                    border-radius: 5px;
+                }
+                
+                h2 {
+                    color: purple;
+                    margin-bottom: 15px;
+                    text-align: center;
+                }
+                
+                .like {
+                    background-color: gray;
+                    margin-bottom: 30px;
+                }
+                
+                .like,
+                .dislike {
+                    padding-bottom: 10px;
+                }
+                
+                #like {
+                    background-color: orange;
+                }
+                
+                h3 {
+                    padding: 13px 0 10px 10px;
+                }
+                
+                h3,
+                #unordered {
+                    color: purple;
+                }
+                
+                .unordered {
+                    color: green;
+                }
+                
+                li {
+                    padding: 3px 0 5px 10px;
+                }
+                
+                .color-one {
+                    color: green;
+                }
+                
+                .dislike {
+                    background-color: greenyellow;
+                }
+                
+                #dislike {
+                    background-color: gray;
+                }
+                
+                .ordered {
+                    color: maroon;
+                }
+                
+                #ordered {
+                    color: darkblue;
+                }
+                
+                .color-two {
+                    color: maroon;
+                }
